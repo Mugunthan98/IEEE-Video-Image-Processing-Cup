@@ -1,18 +1,21 @@
-#IEEE VIP Cup 2022: Synthetic Image Detection
+# IEEE VIP Cup 2022: Synthetic Image Detection
 
 The topic is “Synthetic Image Detection” in which the aim is to distinguish real versus AI-based content in images. Competition is all about designing a strategy for synthetic image detection by relying on image processing and machine learning techniques. The detail task description can be found in VIP_cup2022_doc.pdf.
 
 ![image](https://user-images.githubusercontent.com/62747176/214210832-be9913fa-416c-4d88-8369-b2bbbcaadb4b.png)
 
-Our approach
+
+## Our approach
+
 ![image](https://user-images.githubusercontent.com/62747176/214210883-2476f188-a1c5-42a4-9459-c2a696fc0888.png)
 
-The result that we achieved
+## The result that we achieved
+
 ![image](https://user-images.githubusercontent.com/62747176/214210900-490e2371-9158-4990-bce9-ce75f33210de.png)
 
 More details of our approach can be found in Algorithm_Report.pdf
 
-#References
+# References
 
 [1] S. Nightingale, S. Agarwal, E. Harkonen, J. Lehtinen, and H. Farid, “Synthetic faces: how perceptually convincing are they?” in Vision Sciences Society (VSS) meeting, 2021.
 
